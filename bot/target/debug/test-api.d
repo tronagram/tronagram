@@ -1,0 +1,1 @@
+/Users/jacksmith/prog/blazing-bot-task/bot/target/debug/test-api: /Users/jacksmith/prog/blazing-bot-task/bot/abis/Blaze.json /Users/jacksmith/prog/blazing-bot-task/bot/abis/ERC20.json /Users/jacksmith/prog/blazing-bot-task/bot/src/eth_operations.rs /Users/jacksmith/prog/blazing-bot-task/bot/src/main.rs

@@ -1,0 +1,13 @@
+/Users/jacksmith/prog/blazing-bot-task/test-api/target/debug/deps/libeyre-13e7d04fdf91a9d4.rmeta: /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.3.7/src/lib.rs /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.3.7/src/backtrace.rs /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.3.7/src/chain.rs /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.3.7/src/context.rs /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.3.7/src/error.rs /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.3.7/src/fmt.rs /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.3.7/src/kind.rs /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.3.7/src/macros.rs /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.3.7/src/wrapper.rs
+
+/Users/jacksmith/prog/blazing-bot-task/test-api/target/debug/deps/eyre-13e7d04fdf91a9d4.d: /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.3.7/src/lib.rs /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.3.7/src/backtrace.rs /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.3.7/src/chain.rs /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.3.7/src/context.rs /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.3.7/src/error.rs /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.3.7/src/fmt.rs /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.3.7/src/kind.rs /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.3.7/src/macros.rs /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.3.7/src/wrapper.rs
+
+/Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.3.7/src/lib.rs:
+/Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.3.7/src/backtrace.rs:
+/Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.3.7/src/chain.rs:
+/Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.3.7/src/context.rs:
+/Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.3.7/src/error.rs:
+/Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.3.7/src/fmt.rs:
+/Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.3.7/src/kind.rs:
+/Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.3.7/src/macros.rs:
+/Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eyre-0.3.7/src/wrapper.rs:

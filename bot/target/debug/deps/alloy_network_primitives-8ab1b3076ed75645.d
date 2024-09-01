@@ -1,0 +1,8 @@
+/Users/jacksmith/prog/blazing-bot-task/test-api/target/debug/deps/liballoy_network_primitives-8ab1b3076ed75645.rmeta: /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-network-primitives-0.2.1/src/lib.rs /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-network-primitives-0.2.1/src/traits.rs /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-network-primitives-0.2.1/src/block.rs /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-network-primitives-0.2.1/src/../README.md
+
+/Users/jacksmith/prog/blazing-bot-task/test-api/target/debug/deps/alloy_network_primitives-8ab1b3076ed75645.d: /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-network-primitives-0.2.1/src/lib.rs /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-network-primitives-0.2.1/src/traits.rs /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-network-primitives-0.2.1/src/block.rs /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-network-primitives-0.2.1/src/../README.md
+
+/Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-network-primitives-0.2.1/src/lib.rs:
+/Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-network-primitives-0.2.1/src/traits.rs:
+/Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-network-primitives-0.2.1/src/block.rs:
+/Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-network-primitives-0.2.1/src/../README.md:

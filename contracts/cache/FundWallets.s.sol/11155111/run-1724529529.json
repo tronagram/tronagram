@@ -1,0 +1,13 @@
+{
+  "transactions": [
+    {
+      "rpc": "https://eth-sepolia.public.blastapi.io"
+    },
+    {
+      "rpc": "https://eth-sepolia.public.blastapi.io"
+    },
+    {
+      "rpc": "https://eth-sepolia.public.blastapi.io"
+    }
+  ]
+}

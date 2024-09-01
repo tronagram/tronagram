@@ -1,0 +1,9 @@
+/Users/jacksmith/prog/blazing-bot-task/test-api/target/debug/deps/libnum_enum_derive-4b218a84b9a533d4.dylib: /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.3/src/lib.rs /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.3/src/enum_attributes.rs /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.3/src/parsing.rs /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.3/src/utils.rs /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.3/src/variant_attributes.rs
+
+/Users/jacksmith/prog/blazing-bot-task/test-api/target/debug/deps/num_enum_derive-4b218a84b9a533d4.d: /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.3/src/lib.rs /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.3/src/enum_attributes.rs /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.3/src/parsing.rs /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.3/src/utils.rs /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.3/src/variant_attributes.rs
+
+/Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.3/src/lib.rs:
+/Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.3/src/enum_attributes.rs:
+/Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.3/src/parsing.rs:
+/Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.3/src/utils.rs:
+/Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num_enum_derive-0.7.3/src/variant_attributes.rs:

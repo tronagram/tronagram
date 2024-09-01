@@ -1,0 +1,10 @@
+/Users/jacksmith/prog/blazing-bot-task/test-api/target/debug/deps/liballoy_rlp-7b25a50a1b384dd5.rmeta: /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-rlp-0.3.8/src/lib.rs /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-rlp-0.3.8/src/decode.rs /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-rlp-0.3.8/src/error.rs /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-rlp-0.3.8/src/encode.rs /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-rlp-0.3.8/src/header.rs /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-rlp-0.3.8/src/../README.md
+
+/Users/jacksmith/prog/blazing-bot-task/test-api/target/debug/deps/alloy_rlp-7b25a50a1b384dd5.d: /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-rlp-0.3.8/src/lib.rs /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-rlp-0.3.8/src/decode.rs /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-rlp-0.3.8/src/error.rs /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-rlp-0.3.8/src/encode.rs /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-rlp-0.3.8/src/header.rs /Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-rlp-0.3.8/src/../README.md
+
+/Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-rlp-0.3.8/src/lib.rs:
+/Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-rlp-0.3.8/src/decode.rs:
+/Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-rlp-0.3.8/src/error.rs:
+/Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-rlp-0.3.8/src/encode.rs:
+/Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-rlp-0.3.8/src/header.rs:
+/Users/jacksmith/.cargo/registry/src/index.crates.io-6f17d22bba15001f/alloy-rlp-0.3.8/src/../README.md:
